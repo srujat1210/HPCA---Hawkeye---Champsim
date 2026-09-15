@@ -15,4 +15,3 @@ The Hawkeye implementation consists of:
 - `hawkeye_tests/` — standalone component tests
 - `hawkeye_config.json` — ChampSim Hawkeye configuration
 
-Benchmark traces are intentionally excluded from this repository.
