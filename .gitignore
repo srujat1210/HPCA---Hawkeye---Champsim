@@ -30,3 +30,10 @@ compile_commands.json
 
 .vscode/
 **/.DS_Store
+# Benchmark traces - do not upload
+traces/
+*.champsimtrace
+*.champsimtrace.xz
+
+# macOS files
+.DS_Store
